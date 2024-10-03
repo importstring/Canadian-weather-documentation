@@ -1,6 +1,6 @@
-"""
-MSC GeoMet - GeoMet-OGC-API Documentation
+# MSC GeoMet - GeoMet-OGC-API Documentation
 
+---
 This documentation provides an overview of how to use the MSC GeoMet - GeoMet-OGC-API with urllib in Python.
 
 Base URL: https://api.weather.gc.ca/
